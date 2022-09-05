@@ -18,3 +18,23 @@ ol {
   font-size: 9px;
   font-style: italic;
 }
+
+#ingredients {
+  color: blue;
+}
+
+#equipment {
+  color: green;
+}
+
+#directions {
+  color: black;
+}
+
+.notice {
+  font-weight: bold;
+}
+
+.measure {
+  font-style: italic;
+}
