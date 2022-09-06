@@ -5,19 +5,30 @@ h1 {
 }
 
 h4 {
-  margin-bottom: 0;
+  margin-bottom: 10px;
   font-size: 30px;
   color: maroon;
 }
 
-ul,
-ol {
+ul, ol {
   margin-top: 0;
+}
+
+ol li {
+  margin-top: 10px;
+}
+
+ul li {
+  margin-top: 4px;
 }
 
 li {
   font-size: 18px;
   font-family: 'Caladea', serif;
+}
+
+body {
+  background-color: papayawhip;
 }
 
 .copyright {
