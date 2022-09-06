@@ -1,7 +1,7 @@
 h1 {
   font-family: Arial;
   font-size: 40px;
-  
+  text-shadow: 2px 2px 5px red;  
 }
 
 h4 {
@@ -15,18 +15,23 @@ ol {
   margin-top: 0;
 }
 
+li {
+  font-size: 18px;
+  font-family: 'Caladea', serif;
+}
+
 .copyright {
   font-family: Arial;
-  font-size: 9px;
+  font-size: 12px;
   font-style: italic;
 }
 
 #ingredients {
-  color: blue;
+  color: mediumblue;
 }
 
 #equipment {
-  color: green;
+  color: darkgreen;
 }
 
 #directions {
